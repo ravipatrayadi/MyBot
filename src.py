@@ -1,7 +1,3 @@
-# !pip install -q git+https://github.com/openai/whisper.git
-# !pip install -q gradio
-# !pip install -q openai
-# !pip install -q gTTS
 
 import whisper
 import gradio as gr
